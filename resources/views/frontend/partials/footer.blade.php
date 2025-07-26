@@ -7,8 +7,9 @@
             <a href="#" class="logo">HTMLPedia</a>
 
             <p class="section-text">
-                        HTMLPedia adalah platform edukasi digital yang berkomitmen untuk menyediakan pembelajaran terbaik bagi semua kalangan. Dengan materi yang mudah di pahami dan dipandu oleh para ahli industri,
-                                 kami hadir untuk mendukung perkembangan karir terbaik dalam pengembangan web.
+                HTMLPedia adalah platform edukasi digital yang berkomitmen untuk menyediakan pembelajaran terbaik bagi
+                semua kalangan. Dengan materi yang mudah di pahami dan dipandu oleh para ahli industri,
+                kami hadir untuk mendukung perkembangan karir terbaik dalam pengembangan web.
             </p>
 
             <ul class="social-list">
@@ -44,14 +45,14 @@
         <ul class="footer-list">
 
             <li>
-                <p class="footer-list-title">Explore</p>
+                <p class="footer-list-title">Jelajah</p>
             </li>
 
             <li>
                 <a href="#" class="footer-link">
                     <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
 
-                    <span class="span">About Us</span>
+                    <span class="span">Tentang Kami</span>
                 </a>
             </li>
 
@@ -59,7 +60,7 @@
                 <a href="#" class="footer-link">
                     <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
 
-                    <span class="span">Upcoming Events</span>
+                    <span class="span">Acara Mendatang</span>
                 </a>
             </li>
 
@@ -67,7 +68,7 @@
                 <a href="#" class="footer-link">
                     <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
 
-                    <span class="span">Blog & News</span>
+                    <span class="span">Blog & Berita</span>
                 </a>
             </li>
 
@@ -83,7 +84,7 @@
                 <a href="#" class="footer-link">
                     <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
 
-                    <span class="span">Testimonial</span>
+                    <span class="span">Testimoni</span>
                 </a>
             </li>
 
@@ -91,7 +92,7 @@
                 <a href="#" class="footer-link">
                     <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
 
-                    <span class="span">Privacy Policy</span>
+                    <span class="span">Kebijakan Privasi</span>
                 </a>
             </li>
 
@@ -100,14 +101,14 @@
         <ul class="footer-list">
 
             <li>
-                <p class="footer-list-title">Useful Links</p>
+                <p class="footer-list-title">Tautan Penting</p>
             </li>
 
             <li>
                 <a href="#" class="footer-link">
                     <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
 
-                    <span class="span">Contact Us</span>
+                    <span class="span">Kontak Kami</span>
                 </a>
             </li>
 
@@ -115,7 +116,7 @@
                 <a href="#" class="footer-link">
                     <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
 
-                    <span class="span">Pricing Plan</span>
+                    <span class="span">Rencana Harga</span>
                 </a>
             </li>
 
@@ -123,7 +124,7 @@
                 <a href="#" class="footer-link">
                     <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
 
-                    <span class="span">Instructor Profile</span>
+                    <span class="span">Profil Instruktur</span>
                 </a>
             </li>
 
@@ -139,7 +140,7 @@
                 <a href="#" class="footer-link">
                     <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
 
-                    <span class="span">Popular Courses</span>
+                    <span class="span">Kursus Populer</span>
                 </a>
             </li>
 
@@ -147,7 +148,7 @@
                 <a href="#" class="footer-link">
                     <ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
 
-                    <span class="span">Terms & Conditions</span>
+                    <span class="span">Syarat & Ketentuan</span>
                 </a>
             </li>
 
@@ -156,7 +157,7 @@
         <ul class="footer-list">
 
             <li>
-                <p class="footer-list-title">Contact Info</p>
+                <p class="footer-list-title">Info Kontak</p>
             </li>
 
             <li class="footer-item">
@@ -191,7 +192,7 @@
 
     <div class="footer-bottom">
         <p class="copyright">
-            Copyright 2025 HTMLPedia. All Rights Reserved 
+            Copyright 2025 HTMLPedia. All Rights Reserved
         </p>
     </div>
 
